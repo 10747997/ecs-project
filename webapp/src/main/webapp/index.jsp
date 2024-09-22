@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for MINDTREE training</h1>
+    <h1>Nithin Register for MINDTREE training</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
