@@ -64,6 +64,4 @@ jobs:
       run: |
 
         kubectl rollout restart deployment/regapp-deployment
-        kubectl apply -f regapp-deploy.yml
-        kubectl apply -f regapp-service.yml
         
